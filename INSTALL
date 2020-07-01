@@ -1,0 +1,7 @@
+download code and unzip to directory
+
+change to directory previously used
+
+type : gcc -o fitsiodemosaicbayer.exe fitsiodemosaicbayer.c colorsystems.c  -L.  -lcfitsio -lm
+
+copy exe file to your path
