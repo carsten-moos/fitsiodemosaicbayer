@@ -1,7 +1,7 @@
 /*
 C. Moos
 Template: fitsslpitbayer.c from Mischa Schirmer
-Revise:  5  0107.2020
+Revise:  5  01.07.2020
 cmoos@gmx.de
 Interpolationsmethoden 
 fitsiodemosaicbayer.c
