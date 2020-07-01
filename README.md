@@ -9,6 +9,14 @@ Download latest binary releases for MS Windows on x86_64 bit processors
 Here are some sample datasets to play with:fitmosaic-canon.fit
 
 
+# References
+
+the core of demosaicing fitsfiles is used in these projects:
+
+theli V2,  astronomical data pipeline,      see https://www.astro.uni-bonn.de/theli/
+theli V3,  astronomical data pipeline,      see https://github.com/schirmermischa/THELI
+nightlight, astronomical image processing,  see https://github.com/mlnoga/nightlight
+
 
 # Capabilities
 
@@ -44,5 +52,4 @@ Usage of fitsiodemosaicbayer is only for console commandline.
            -l with export of Luminance CIEL*a*b
            -t with generates RAW testimage: R=50 G=101[2] B=75
            
-  PURPOSE: Demosaics a bayer matrix fits image into
-  three monochrome fits images for RGB.
+  PURPOSE: Demosaics a bayer matrix osc fits image into three monochrome fits images for RGB.
