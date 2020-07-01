@@ -5,3 +5,9 @@ change to directory previously used
 type : gcc -o fitsiodemosaicbayer.exe fitsiodemosaicbayer.c colorsystems.c  -L.  -lcfitsio -lm
 
 copy exe file to your path
+
+if libcfitsio.a is outdated or not for your system please try to compile it from sources: https://github.com/healpy/cfitsio
+
+copy  makegcc.bat   to cfitsio-master directory ( maybe you have to do some edits )
+
+
