@@ -72,8 +72,8 @@ void usage(int i, char *argv[])
 {
   if (i == 0) {
     fprintf(stderr,"\n");
-    fprintf(stderr,"          Version 1.7 Rev 4 (2012-04-21) fitsio\n\n");
-    fprintf(stderr,"  Author: Carsten Moos, based on Mischa Schirmer\n\n");
+    fprintf(stderr,"          Version 1.7 Rev 5 (2020-07-01) fitsio\n\n");
+    fprintf(stderr,"  Author: Carsten Moos\n\n");
     fprintf(stderr,"  USAGE:  %s \n", argv[0]);
     fprintf(stderr,"           -i input_image \n");
     fprintf(stderr,"           -p pattern (available: RGGB, GRBG, GBRG, BGGR)\n");
