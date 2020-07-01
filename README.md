@@ -25,11 +25,14 @@ Usage of fitsiodemosaicbayer is only for console commandline.
 
           Version 1.7 Rev 4 (2012-04-21) fitsio
 
-  Author: Carsten Moos, based on Mischa Schirmer
+  Author: Carsten Moos
 
   USAGE:  fitsiodemosaicbayer
+  
            -i input_image
+           
            -p pattern (available: RGGB, GRBG, GBRG, BGGR)
+           
            -q 0    for bilinear Interpolation
            -q 1    for gradient Interpolation
            -q 2    for PPG Interpolation
@@ -40,5 +43,6 @@ Usage of fitsiodemosaicbayer is only for console commandline.
            -d 1000 for despeckle above level 1000  filter 1x3 of crominannce
            -l with export of Luminance CIEL*a*b
            -t with generates RAW testimage: R=50 G=101[2] B=75
+           
   PURPOSE: Demosaics a bayer matrix fits image into
   three monochrome fits images for RGB.
