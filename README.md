@@ -30,6 +30,9 @@ nightlight, astronomical image processing,  see https://github.com/mlnoga/nightl
     Does not support RAW file input from regular digital cameras, only FITS
     
     Not all switches can be combined and may lead to trash
+    
+    uses libcfitsio.a (Version 3.24) precompiled at mingw gcc @ windows 10, 64, the library may be outdated or not suitable for every windows version.
+    
 
 # Usage via commandline
 
