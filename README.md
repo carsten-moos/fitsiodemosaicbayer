@@ -27,7 +27,7 @@ nightlight, astronomical image processing,  see https://github.com/mlnoga/nightl
 
     Does not support RAW file input from regular digital cameras, only FITS
     
-    Not all switched can be combined and may lead to trash
+    Not all switches can be combined and may lead to trash
 
 # Usage via commandline
 
