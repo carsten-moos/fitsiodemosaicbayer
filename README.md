@@ -2,6 +2,10 @@
 
 Demosaicing of a fitsfile for astronomical data.
 fitsiodemosaicbayer is a command line tool for the MS console. 
+
+  :red_circle: :white_check_mark: :red_circle: :white_check_mark: :red_circle: :white_check_mark:
+  
+  :white_check_mark:  :large_blue_diamond: :white_check_mark:  :large_blue_diamond: :white_check_mark:  :large_blue_diamond:
 # Releases
 
 Download latest binary releases for MS Windows on x86_64 bit processors
