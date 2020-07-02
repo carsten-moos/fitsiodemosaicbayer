@@ -17,11 +17,11 @@ Here are some sample datasets to play with:fitmosaic-canon.fit
 
 the core of demosaicing fitsfiles is used in these projects:
 
-theli V2,  astronomical data pipeline,      see https://www.astro.uni-bonn.de/theli/
+theli V2,  astronomical data pipeline,      see [Theli V2 ](https://www.astro.uni-bonn.de/theli/)
 
-theli V3,  astronomical data pipeline,      see https://github.com/schirmermischa/THELI
+theli V3,  astronomical data pipeline,      see [Mischa Schirmer](https://github.com/schirmermischa/THELI)
 
-nightlight, astronomical image processing,  see https://github.com/mlnoga/nightlight
+nightlight, astronomical image processing,  see [Markus Noga](https://github.com/mlnoga/nightlight)
 
 
 # Capabilities
